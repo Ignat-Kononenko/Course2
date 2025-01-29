@@ -1,0 +1,44 @@
+.myForm{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.userform{
+    width: 400px;
+    border: 1px solid black;
+    padding: 25px;
+}
+
+.headOfForm{
+    font-weight: bold;
+}
+
+.information{
+    display: flex;
+    float: right;
+    width: 200px;
+    text-align: justify;
+    justify-content: space-between;
+}
+
+.invalid {
+    border-color: red;
+    
+}
+#errorFam {
+    color: red;
+
+}
+#errorName {
+    color: red;
+}
+#errorEmail {
+    color: red;
+}
+#errorPhone {
+    color: red;
+}
+#errorInfo {
+    color: red;
+}

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="lab15.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="myForm">
+        <form class="userform">
+            <p>
+                <span class="headOfForm"> Заполните форму: </span>
+            </p>
+            <p>
+                <label for="fam" class="label">Фамилия</label>
+                <input class="information" type="text" name="fio" id="fam">
+                <div id="errorFam"></div>
+            </p>
+            <p>
+                <label for="name" class="label" >Имя</label>
+                <input   class="information" type="text" name="fio" id="name" >
+                <div id="errorName"></div>
+            </p>
+            <p>
+                <label for="emai" class="label">Email</label>
+                <input class="information" type="email" name="email" id="emai">
+                <div id="errorEmail"></div>
+            </p>
+            <p>
+                <label for="coun" class="label">Номер телефона</label>
+                <input class="information" type="text"  id="phone">
+                <div id="errorPhone"></div>
+            </p>
+            <p>
+                <label for="from" class="label">Город</label>
+                <select  class="information" id="from"><option> Брест</option><option> Витебск</option><option> Гомель</option><option> Гродно</option><option> Минская область</option><option> Могилев</option><option> Минск</option></select>
+            </p>
+            <p>
+                <label for="s" class="label" id="BSTU">Я учусь в БГТУ<span class="information"><input  name="s" type="checkbox" ></label>
+            </p>
+            <p>
+                <label for="s" class="label" id="course">На каком курсе Вы учитесь?<span class="information"><input  name="s" type="radio" >1<input  type="radio"  name="s">2<input  type="radio"  name="s">3<input  type="radio"  name="s">4</span></label>
+            </p>
+            <p>
+                <label for="dat" class="label">Расскажите о себе </label>
+                <textarea class="information" type="text" id="dat"></textarea>
+                <div id="errorInfo"></div>
+            </p>
+            
+                <input class="cl1" type="submit" id="check"  value="Проверить">
+            
+            </form>
+    </div>
+    <script src="lab15.js"></script>
+</body>
+</html>
