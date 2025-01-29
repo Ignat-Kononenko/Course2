@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(135deg, #153677, #4e085f);
+    padding: 10px;
+}
+.todolist{
+    width: 100%;
+    background: whitesmoke;
+    max-width: 540px;
+    margin: 100px auto 20px;
+    padding: 40px 30px 70px;
+    border-radius: 10px;
+}
+
+.headOfTodolist{
+    color: #04AA6D;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.row{
+    display: flex;
+    height: 30px;
+    margin-bottom: 20px;
+}
+
+input{
+    width: 60%;
+    border-radius: 5px;
+    border: 1px solid gray;
+    margin-right: 15px;
+    padding-left: 5px;
+}
+
+.mainButton{
+    border-color: #04AA6D;
+    color: green;
+    border-radius: 5px;
+    margin-right: 5px ;
+    cursor: pointer;
+}
+
+.mainButton:hover{
+    background-color: #04AA6D;
+    color: white;
+}
+ul li{
+    list-style: none;
+    font-size: 14px;
+    padding: 12px 8px 12px 20px;
+    cursor: pointer;
+    background-color: white;
+    margin-bottom: 20px;
+}
+
+.checkBox{
+    width: 16px;
+    height: 16px;
+}
+
+.content{
+    display: flex;
+    text-align: center;
+}
+
+.twoButtons{
+    padding-left: 40%;
+    
+}
+
+.editButton{
+    border-color: blue;
+    color: blue;
+    border-radius: 5px;
+    margin-right: 5px ;
+    cursor: pointer;
+}
+
+.editButton:hover{
+    background-color: blue;
+    color: white;
+}
+
+.removeButton{
+    border-color: red;
+    color: red;
+    border-radius: 5px;
+    margin-right: 5px ;
+    cursor: pointer;
+}
+
+.removeButton:hover{
+    background-color: red;
+    color: white;
+}

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="lab13.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <div class="todolist">
+            <h2 class="headOfTodolist">Список задач</h2>
+            <div class="row">
+                <input type="text" id="inputBox" placeholder="Введите название задачи">
+                <button id = "addButton" class="mainButton">Добавить</button>
+            </div>
+            <div class="row">
+                <button id="showAllButton" class="mainButton">Показать все</button> 
+                <button id="showCompletedButton" class="mainButton">Показать выполненные</button> 
+                <button id="showPendingButton" class="mainButton">Показать не выполненные</button>
+            </div>
+            <ul id="listContainer">
+                <li class="content"><input type="checkbox" class="checkBox">Задача 1<div class="twoButtons"><button class="editButton">Редактировать</button><button class="removeButton">удалить</button></div></li>
+                <li class="content"><input type="checkbox" class="checkBox">Задача 2<div class="twoButtons"><button class="editButton">Редактировать</button><button class="removeButton">удалить</button></div></li>
+                <li class="content"><input type="checkbox" class="checkBox">Задача 3<div class="twoButtons"><button class="editButton">Редактировать</button><button class="removeButton">удалить</button></div></li>
+            </ul>
+        </div>
+    </div>
+    <!-- <script src="lab11.js"></script> -->
+    <script src="lab13.js"></script>
+</body>
+</html>
