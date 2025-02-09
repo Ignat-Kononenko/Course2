@@ -1,0 +1,7 @@
+D:\labs\3semestr\ООП\lab14\OOP14\OOP14\bin\Debug\OOP14.exe.config
+D:\labs\3semestr\ООП\lab14\OOP14\OOP14\bin\Debug\OOP14.exe
+D:\labs\3semestr\ООП\lab14\OOP14\OOP14\bin\Debug\OOP14.pdb
+D:\labs\3semestr\ООП\lab14\OOP14\OOP14\obj\Debug\OOP14.csproj.AssemblyReference.cache
+D:\labs\3semestr\ООП\lab14\OOP14\OOP14\obj\Debug\OOP14.csproj.CoreCompileInputs.cache
+D:\labs\3semestr\ООП\lab14\OOP14\OOP14\obj\Debug\OOP14.exe
+D:\labs\3semestr\ООП\lab14\OOP14\OOP14\obj\Debug\OOP14.pdb
