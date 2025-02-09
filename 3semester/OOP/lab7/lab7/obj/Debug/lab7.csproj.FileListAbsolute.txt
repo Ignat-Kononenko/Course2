@@ -1,0 +1,7 @@
+D:\labs\3semestr\ООП\lab7\lab7\lab7\bin\Debug\lab7.exe.config
+D:\labs\3semestr\ООП\lab7\lab7\lab7\bin\Debug\lab7.exe
+D:\labs\3semestr\ООП\lab7\lab7\lab7\bin\Debug\lab7.pdb
+D:\labs\3semestr\ООП\lab7\lab7\lab7\obj\Debug\lab7.csproj.AssemblyReference.cache
+D:\labs\3semestr\ООП\lab7\lab7\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+D:\labs\3semestr\ООП\lab7\lab7\lab7\obj\Debug\lab7.exe
+D:\labs\3semestr\ООП\lab7\lab7\lab7\obj\Debug\lab7.pdb
