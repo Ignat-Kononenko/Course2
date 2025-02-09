@@ -1,0 +1,44 @@
+Info: ConsoleApp1.Prod, ConsoleApp1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Name: Prod
+fullNameConsoleApp1.Prod
+Namespace: ConsoleApp1
+IsValueType: False
+IsClass: True
+
+Конструкторы: .ctor
+Конструкторы: .ctor
+
+: MethodWithR
+
+ Параметры: System.Int32
+: Method1
+: Method
+: Method
+
+ Параметры: System.String
+
+ Параметры: System.Object
+: PMethod
+: get_Current
+: Clone
+: GetEnumerator
+: MoveNext
+: Reset
+: Equals
+
+ Параметры: System.Object
+: GetHashCode
+: Finalize
+: GetType
+: MemberwiseClone
+: ToString
+
+Поля: Id
+Поля: Name
+
+Свойства: Current
+
+Интерфейсы: IEnumerable
+Интерфейсы: IEnumerator
+Интерфейсы: ICloneable
+
