@@ -1,0 +1,10 @@
+D:\labs\4semestr\OOP\labs\lab1\WindowsFormsCalculator\WindowsFormsCalculator\bin\Debug\WindowsFormsCalculator.exe.config
+D:\labs\4semestr\OOP\labs\lab1\WindowsFormsCalculator\WindowsFormsCalculator\bin\Debug\WindowsFormsCalculator.exe
+D:\labs\4semestr\OOP\labs\lab1\WindowsFormsCalculator\WindowsFormsCalculator\bin\Debug\WindowsFormsCalculator.pdb
+D:\labs\4semestr\OOP\labs\lab1\WindowsFormsCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.csproj.AssemblyReference.cache
+D:\labs\4semestr\OOP\labs\lab1\WindowsFormsCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.Form1.resources
+D:\labs\4semestr\OOP\labs\lab1\WindowsFormsCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.Properties.Resources.resources
+D:\labs\4semestr\OOP\labs\lab1\WindowsFormsCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.csproj.GenerateResource.cache
+D:\labs\4semestr\OOP\labs\lab1\WindowsFormsCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.csproj.CoreCompileInputs.cache
+D:\labs\4semestr\OOP\labs\lab1\WindowsFormsCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.exe
+D:\labs\4semestr\OOP\labs\lab1\WindowsFormsCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.pdb
